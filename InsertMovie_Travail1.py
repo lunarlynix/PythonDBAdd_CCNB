@@ -4,7 +4,7 @@ import mysql.connector
 import datetime
 
 # Created by Lynix (Anthony Roy)
-# Travail 1
+# Travail 1 CCNB
 
 # Sends the Data to The Database
 def sendToDB(title, description, release, length, ratingVariable, languageVariable):
